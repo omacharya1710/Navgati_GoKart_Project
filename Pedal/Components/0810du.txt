@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"32-17042007-097861";"";
+"REFERENCE";"0810DU";"";
+"TraceParts.PartTitle";"DU bushes - metric";"";
+"TraceParts.InstanceId";"32-17042007-097861D0E1K5TQ01W3X5JKK7C4VR9BC";"";
+"SUPPLIER";"GGB";"";
+"DESIGN";"DU bushes - metric";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.4.8";"";
